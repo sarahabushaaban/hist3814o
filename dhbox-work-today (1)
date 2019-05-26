@@ -1,0 +1,12 @@
+#May 26, 2019: Exercise 1 - Database Searches
+To conduct a random search, I specified place of commemoration to be Israel and Palestine (including Gaza) and ticked the Second World W
+ar box to narrow results - and narrow they were. Only one result appeared. I downloaded the 'results'.
+This is a link to my results: https://www.cwgc.org/find/find-war-dead/results?country=Israel%2band%2bPalestine%2b(including%2bGaza)&war=
+2&tab=wardead&fq_cemeterymemorial=GAZA+WAR+CEMETERY&fq_servedwithliteral=Canadian
+Then, I conducted a search of my family name and unsurprisingly, did not come up with any results.
+This is a link to my (lack of) results: https://www.cwgc.org/find/find-war-dead/results?lastName=Abu%2BShaaban
+
+Then, in the EDH database, I restricted my search to the province of Arabia and the modern country Israel, and came up with three results. This is a link to my results: https://edh-www.adw.uni-heidelberg.de/inschrift/suche?hd_nr=&provinz=Ara&land=il&fo_antik=&fo_modern_fundstelle=&literatur=&dat_jahr_a=&dat_jahr_e=&hist_periode=&atext1=&bool=AND&atext2=&sort=hd_nr&anzahl=20
+    1  nano dhbox-work-today
+    2  history 
+    3  history > dhbox-work-today
