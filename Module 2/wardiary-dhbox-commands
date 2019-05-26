@@ -1,0 +1,13 @@
+    1  mkdir war-diary
+    2  cd war-diary
+    3  pwd
+    4  $ nano urls.py
+    5  $ pandoc -v
+    6  nano urls.py
+    7  python urls.py
+    8  ls
+    9  nano urls.txt
+   10  wget -i urls.txt -r --no-parent -nd -w 2 --limit-rate=100k
+   11  ls
+   12  history
+   13  history > wardiary-dhbox-commands
