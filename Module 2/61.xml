@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>61</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>morning or after dinner. Those who arrive after the fixed time are pretty sure to get a few, perhaps, five or sex lashes.<persName key="Cooper, Thomas" from="1780" to="1829" role="Unitarian Minister" ref="https://www.newspapers.com/clip/10371119/rev_thomas_cooper_17801829/"> Mr. Cooper</persName>, on one occasion, saw three or four old women come too late: they knew they were to be whipped, and as soon as they came up, threw themselves down on the ground to receive the lashes: some of them received four, others six lashes. These minor punishments, Mr. Cooper says, are very frequent. He believes he has heard of as many as sixty Negroes being flogged in one morning, for being late.</p>
+                <p>More serious punishments are only inflicted by the authority of the overseer; and the mode of their infliction is usually the same as has been already described.<interp key="history of women slaves suggests disparities of value and  treatment" n="https://www.history.ac.uk/ihr/Focus/Slavery/articles/paton.html" cert="medium" ref="http://www.website.com/webpage.html"> Whether the offender be male or female, precisely the same course is pursued</interp>. The posteriors are made bare, and the offender is extended prone on the ground, the hands and feet being firmly held and extended by other slaves; when the driver, with his long and heavy whip, inflicts, under the eye of the overseer, the number of lashes which he may order; each lash, when the skin is tender and not rendered callous by repeated punishments, making an incision on the buttocks, and thirty or forty such lashes leaving them in a dreadfully lacerated and bleeding state. Even those that have become the most callous cannot long resist the force of this terrible instrucment, when applied by a skilful hand, but become also raw and bloody;indeed, no strength of skin can withstand its reiterated application. </p>
+                <p> These punishments are inflicted by the overseer, whenever he thinks them to have been deserved. He has no written rules to guide his conduct, nor are the occasions at all defined on which he may exercise the power of punishment. Its exercise is regulated wholly and solely by his own discretion. An act of neglect or of disobedience, or even a look or a word supposed to</p>
+                
+
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
