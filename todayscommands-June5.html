@@ -1,0 +1,31 @@
+    1  curl http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt 
+    2  nano texas.txt
+    3  nano texas.tx
+    4  nano texas.txt
+    5  grep '\bto\b' texas.txt
+    6  grep 'to' texas.txt
+    7  grep '\bto\b' texas.txt
+    8  sed -r -i.bak 's/(.+\bto\b.+)/~\1/g' texas.txt
+    9  ls
+   10  nano texas.txt
+   11  grep '~' texas.txt > index.txt
+   12  ls
+   13  nano index.text
+   14  nano index.txt
+   15  sed -r -i.bak 's/(,)([0-9]{4})(.+)/\2/g' index.txt
+   16  nano index.txt
+   17  sed -r -i.bak 's/~//g' index.txt
+   18  nano index.txt
+   19  sed -r -i.bak 's/(\b to \b)/,/g' index.txt
+   20  nano index.txt
+   21  grep -r ".+,.+,.+," index.txt
+   22  nano index.txt
+   23  sed -r -i.bak 's/(,)( [0-9]{4})(.+)/\2/g' index.txt
+   24  sed -r -i.bak 's/~//g' index.txt
+   25  sed -r -i.bak 's/(\b to \b)/,/g' index.txt
+   26  grep -r ".+,.+,.+," index.txt
+   27  nano index.txt
+   28  cp index.txt cleaned-correspondence.csv
+   29  ls
+   30  history
+   31  history > todayscommands-June5.html
